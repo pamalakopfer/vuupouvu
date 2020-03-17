@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahghisifa.how-to-dad.co.uk/sitemap.xml
